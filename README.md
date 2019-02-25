@@ -7,8 +7,7 @@ Now on [pypi](http://pypi.python.org/pypi/simple-crypt):
 (note that the pypi name includes a hyphen).
 
 This provides two functions, which encrypt and decrypt data, delegating all
-the hard work to the [pycrypto](https://www.dlitz.net/software/pycrypto)
-library (which must also be installed).
+the hard work to the [pycryptodome](https://www.pycryptodome.org/en/latest/).
 
 ## Examples
 
